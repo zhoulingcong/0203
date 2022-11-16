@@ -5,5 +5,5 @@ hello git three
 hello git
 hello git AAA我是分支，我改变了内容
 hello git
-hello git
+hello git 我想要冲突
 hello git
